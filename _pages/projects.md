@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [sql, power bi, tableau, python]
+display_categories: [sql, power bi, tableau, excel, python]
 horizontal: false
 ---
 
