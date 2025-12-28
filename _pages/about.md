@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Jersey City, New Jersey, USA</p>
@@ -26,8 +26,8 @@ latest_posts:
 ---
 Hello,
 
-I am a `Health Informatics` graduate student at Sacred Heart University specializing in healthcare data analytics, interoperability, and clinical data systems.
+I am a `Health Informatics` graduate student at Sacred Heart University with prior training in dental medicine `(BDS, India)`, specializing in healthcare data analytics, interoperability, and clinical data systems.
 
-My experience includes building analytical pipelines and dashboards using `SQL`, `Power BI` and `Python`, working with healthcare datasets (claims, hospital performance, EHR-like data), and aligning data workflows with standards such as HL7, FHIR.
+My experience includes building analytical pipelines and dashboards using `SQL`, `Power BI` and `Python`, working with healthcare datasets, and aligning data workflows with standards such as HL7, FHIR, and TEFCA.
 
 My current interests include healthcare analytics, data modeling, interoperability frameworks, and clinical decision support systems.
