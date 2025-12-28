@@ -44,6 +44,11 @@ ninja.data = [{
           description: "using Power BI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-excel-health-care-analytics-dashboard",
+          title: 'Excel Health Care Analytics Dashboard',
+          description: "using Power BI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
