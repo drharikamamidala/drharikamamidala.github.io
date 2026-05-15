@@ -137,4 +137,16 @@ export const projects = [
     tools: ['SQL', 'PostgreSQL', 'Power BI', 'CTEs'],
     url: null,
   },
+  {
+    id: 'nlp-capstone',
+    title: 'Natural Language Processing vs. Rule-Based Approaches for Type 2 Diabetes Identification',
+    bullets: [
+      'Conducted systematic literature review and synthesis of 26 peer-reviewed studies (2020–2025) comparing NLP and rule-based methods for identifying T2D and complications in unstructured EHR data.',
+      'Performed critical quality appraisal using CASP and JBI tools; thematically analyzed evidence across four dimensions: rule-based limitations, NLP approaches, comparative performance, and implementation challenges.',
+      'Synthesized quantitative findings showing NLP achieved F-scores up to 0.88 vs. 0.50–0.60 for rule-based systems; identified NLP\'s superior sensitivity in detecting hypoglycemia (25.1% vs. 12.4% with ICD codes) and context-aware complication tracking.',
+      'Documented clinical implications: NLP improves early diagnosis detection, decision-support accuracy, diabetes registry completeness, and patient safety; identified barriers (data quality, governance, domain shift) critical for implementation roadmaps.',
+    ],
+    tools: ['Systematic Review', 'Evidence Synthesis', 'Healthcare Informatics', 'Critical Appraisal'],
+    url: null,
+  },
 ]
