@@ -104,7 +104,7 @@ export const projects = [
       'Ran exploratory data analysis using DAX measures for LOS, cost, charges; established baselines of 2.65 avg LOS days, $20.9K avg cost, $59.5K avg charges, and ~2.8× charge-to-cost spread to flag facility outliers.',
     ],
     tools: ['Power BI', 'DAX', 'Power Query', 'Star Schema'],
-    url: 'https://github.com/drharikamamidala/New_York_Inpatient_Hip_Replacement_Cost_and_LOS_Analytics/blob/main/README.md',
+    url: 'https://app.powerbi.com/view?r=eyJrIjoiMzU5ZTE0ZjMtZjA1ZC00MzVjLWI1NDQtYjU1YzUwNGViMWYyIiwidCI6IjVkM2U0YmI5LWJiZTktNGM5Yy1iZWI1LTZjZmE0YWJmMDRlMiIsImMiOjF9',
   },
   {
     id: 'excel-dashboard',
