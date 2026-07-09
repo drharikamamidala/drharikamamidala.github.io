@@ -29,23 +29,26 @@ export default function Home() {
 
         <div className="home-bio">
           <p>
-            I am a <code>Health Informatics</code> graduate <code>(MS)</code> from
-            Sacred Heart University with prior training in dental medicine{' '}
-            <code>(BDS, India)</code>, specializing in healthcare data analytics,
-            interoperability, and clinical data systems.
+            I am a <code>Healthcare Data Analyst</code> focused on revenue cycle
+            and quality analytics — <code>denial management</code>, AR aging,
+            claims, and reimbursement. I pair a clinical background{' '}
+            <code>(BDS, India)</code> with an <code>MS in Health Informatics</code>{' '}
+            from Sacred Heart University.
           </p>
 
           <p>
-            My experience includes building analytical pipelines and dashboards
-            using <code>SQL</code>, <code>Power BI</code>, and <code>Python</code>,
-            working with healthcare datasets, and aligning data workflows with
-            standards such as <code>HL7</code>, <code>FHIR</code>, and{' '}
-            <code>TEFCA</code>.
+            My work centers on turning claims and payer data into clear,
+            prioritized action — building <code>SQL</code> models and{' '}
+            <code>Power BI</code> dashboards on <code>Epic</code> (Clarity,
+            Caboodle) data that help RCM and operations leadership reduce denials
+            and recover revenue.
           </p>
 
           <p>
-            My current interests include healthcare analytics, data modeling,
-            interoperability frameworks, and clinical decision support systems.
+            My focus areas include denial and AR analytics, reimbursement and
+            underpayment analysis, revenue integrity, coding edits{' '}
+            <code>(ICD-10-CM, CPT/HCPCS)</code>, and healthcare quality analytics{' '}
+            <code>(HEDIS)</code>.
           </p>
         </div>
 
