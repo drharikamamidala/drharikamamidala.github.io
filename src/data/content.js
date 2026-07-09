@@ -13,20 +13,20 @@ export const socials = [
   {
     id: 'linkedin',
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/drharikamamidala/',
+    url: 'https://www.linkedin.com/in/harikamamidala03/',
     type: 'link',
   },
   {
     id: 'github',
     label: 'GitHub',
-    url: 'https://github.com/drharikamamidala',
+    url: 'https://github.com/harikamamidala03',
     type: 'link',
   },
   {
     id: 'leetcode',
     label: 'LeetCode',
-    url: 'https://leetcode.com/u/drharikamamidala/',
-    username: 'drharikamamidala',
+    url: 'https://leetcode.com/u/harikamamidala98/',
+    username: 'harikamamidala98',
     type: 'leetcode',
   },
   {
@@ -114,7 +114,7 @@ export const projects = [
       'Automated data processing workflows with Power Query and VBA macros, analyzing $1.4B+ insurance billing data across 5 major providers (2019–2024) for financial trend analysis.',
     ],
     tools: ['Excel', 'Power Query', 'VBA', 'Pivot Tables'],
-    url: 'https://github.com/drharikamamidala/Excel_Healthcare_Analytics_Dashboard/blob/main/README.md',
+    url: 'https://github.com/harikamamidala03/Excel_Healthcare_Analytics_Dashboard/blob/main/README.md',
   },
   {
     id: 'er-visits',
@@ -125,7 +125,7 @@ export const projects = [
       'Performed segmentation analysis by age group, gender, and race — highlighting visit concentration in adult patients (7,106 visits) and supporting demographic-based reporting for service planning.',
     ],
     tools: ['Power BI', 'DAX', 'KPI Cards'],
-    url: 'https://github.com/drharikamamidala/ER_Visit_Analytics_Dashboard/blob/main/README.md',
+    url: 'https://github.com/harikamamidala03/ER_Visit_Analytics_Dashboard/blob/main/README.md',
   },
   {
     id: 't2d-claims',
