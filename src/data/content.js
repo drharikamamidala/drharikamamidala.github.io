@@ -5,7 +5,7 @@ export const profile = {
   tagline:
     'Translating clinical and claims data into decisions that improve care delivery and reduce cost.',
   location: 'Jersey City, NJ',
-  email: 'harika.mamidala09@gmail.com',
+  email: 'harika.mamidala03@gmail.com',
   photo: '/harika.jpg',
 }
 
@@ -63,7 +63,7 @@ export const certifications = [
     issuerCode: 'MS',
     logoType: 'microsoft',
     url: 'https://learn.microsoft.com/api/credentials/share/en-us/HarikaMamidala-0900/BD8D65541582DEA1?sharingId=6128EA8E08B2C484',
-    year: '2024',
+    year: '2025',
   },
   {
     id: 'hipaa',

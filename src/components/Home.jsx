@@ -29,8 +29,8 @@ export default function Home() {
 
         <div className="home-bio">
           <p>
-            I am a <code>Health Informatics</code> graduate student at Sacred Heart
-            University with prior training in dental medicine{' '}
+            I am a <code>Health Informatics</code> graduate <code>(MS)</code> from
+            Sacred Heart University with prior training in dental medicine{' '}
             <code>(BDS, India)</code>, specializing in healthcare data analytics,
             interoperability, and clinical data systems.
           </p>
